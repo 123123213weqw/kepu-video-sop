@@ -1,0 +1,9 @@
+[
+ {"job": 1,  "image": "图表_历史丢席.png", "crop": null, "effects": [{"type": "circle",   "chart_label": "-43席", "t0": 1.0, "t1": 2.0}]},
+ {"job": 4,  "image": "图表_参院翻盘.png", "crop": null, "effects": [{"type": "circle",   "chart_bar": 1,        "t0": 1.0, "t1": 2.0}]},
+ {"job": 7,  "image": "图表_历史丢席.png", "crop": null, "effects": [{"type": "underline","chart_label": "-31席", "t0": 0.9, "t1": 1.8},
+                                                                      {"type": "underline","chart_label": "-26席", "t0": 1.8, "t1": 2.7}]},
+ {"job": 13, "image": "图表_历史丢席.png", "crop": null, "effects": [{"type": "circle",   "chart_label": "-43席", "t0": 1.0, "t1": 2.0}]},
+ {"job": 14, "image": "图表_参院翻盘.png", "crop": null, "effects": [{"type": "hl",       "chart_bar": 0,        "t0": 1.0, "t1": 1.8},
+                                                                      {"type": "hl",       "chart_bar": 1,        "t0": 1.8, "t1": 2.6}]}
+]
